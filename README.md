@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am passionate about pursuing a career as a Data Scientist and Data Analyst.</p>
+<p align="left">I am passionate about pursuing a career as a Data Analyst, Data Scientist, and Machine Learning Engineer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Passionate about Data Science and Data Analytics<br>📊 Strong background in Statistics, Machine Learning, and Data Analysis<br>🧠 Always eager to learn and explore new AI and NLP technologies<br>🏆 Enthusiastic about solving real-world problems using Data-Driven Insights</p>
+<p align="left">💻 Passionate about Data Science and Data Analytics<br>📊 Strong background in Statistics, Machine Learning, and Data Analysis<br>🧠 Always eager to learn and explore new AI technologies<br>🏆 Enthusiastic about solving real-world problems using Data-Driven Insights</p>
 
 ###
 
